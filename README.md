@@ -2,7 +2,7 @@
 
 ## Live website
 
-` https://raeeskasim1.github.io/Portfolio/`
+ https://raeeskasim1.github.io/Portfolio
 
 ## Contact
 
